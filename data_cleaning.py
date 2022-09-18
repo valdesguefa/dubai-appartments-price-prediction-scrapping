@@ -66,7 +66,7 @@ def fill_amenities(data_frame, new_amenities_list):
             for val1 in str(val).split(','):
                 tab.append(val1)
         
-        tab = tab[ : -1]
+        #tab = tab[ : -1]
         #print(tab)        
         for obj in tab:
             for column_name in new_amenities_list:
