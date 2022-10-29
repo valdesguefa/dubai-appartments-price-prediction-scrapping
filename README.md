@@ -5,7 +5,7 @@ find useful price related insights on the Real Estate market in Dubai. The curre
 pricing and valuation is done based on the market demands and with a surplus of supply
 compared to demand, it becomes even more difficult and competitive to price these
 properties. Some areas, that are highly attractive, have higher prices compared to other
-properties that might be even better in terms of age, transportation, and services available
+properties that might be even better in terms of  transportation, and services available
 around it. The model that is proposed, helps the users to make informed decisions when it
 comes to purchasing or regulating the prices so that prices are not inflated, and
 constructions is distributed more evenly across the Emirates. This might provide the Emirate
